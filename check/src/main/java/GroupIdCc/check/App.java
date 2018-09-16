@@ -1,4 +1,4 @@
-package GroupIdCc.check1;
+package GroupIdCc.check;
 
 /**
  * Hello world!

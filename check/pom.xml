@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>GroupIdCc</groupId>
-  <artifactId>check1</artifactId>
+  <artifactId>check</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>check1</name>
+  <name>check</name>
   <url>http://maven.apache.org</url>
 
   <properties>

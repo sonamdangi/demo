@@ -1,4 +1,4 @@
-package GroupIdCc.check1;
+package GroupIdCc.check;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
